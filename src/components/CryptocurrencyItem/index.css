@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.cryptocurrency-item {
+  display: flex;
+  color: #ffffff;
+  font-family: Roboto;
+  width: 100%;
+  justify-content: space-between;
+}
+.crypto-image {
+  width: 10%;
+}
+.crypto-image-container {
+  display: flex;
+}
+.crypto-info {
+  display: flex;
+  width: 30%;
+  justify-content: space-between;
+}

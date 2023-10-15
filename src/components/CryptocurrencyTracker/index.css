@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.cryptocurrency-tracker-container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #00e7ff;
+  font-family: Roboto;
+}

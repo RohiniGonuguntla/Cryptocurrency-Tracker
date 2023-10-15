@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.cryptocurrencies-list {
+  list-style-type: none;
+  border-style: solid;
+  border-color: #00e7ff;
+  padding: 5px;
+}
+.bg-cont {
+  display: flex;
+  color: #ffffff;
+  background-color: #092e33;
+  justify-content: space-between;
+}
+.small-cont {
+  display: flex;
+  width: 30%;
+  justify-content: space-between;
+}
